@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"login","login exitoso","SUCCESS","2021-10-23T17:19:31.092-05:00[America/Bogota]","0.0","21.06"
+"login","Fallido","SUCCESS","2021-10-23T17:19:53.423-05:00[America/Bogota]","0.0","40.8"
+"Reports","crear un reporte y ejecutarlo","SUCCESS","2021-10-23T16:04:22.655-05:00[America/Bogota]","0.0","38.33"
+"Reset Search","buscar y resetear busqueda","SUCCESS","2021-10-23T17:17:49.531-05:00[America/Bogota]","0.0","28.78"

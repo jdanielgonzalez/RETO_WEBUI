@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="login" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-23T22:19:30" hostname="DESKTOP-IRDSL6O" time="63.674">
+  <properties/>
+  <testcase name="login exitoso" classname="login" time="22.851"/>
+  <testcase name="fallido" classname="login" time="15.343"/>
+  <testcase name="fallido" classname="login" time="13.211"/>
+  <testcase name="fallido" classname="login" time="12.269"/>
+  <system-out><![CDATA[Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+Step argument class io.cucumber.core.gherkin.vintage.GherkinVintageDataTableArgument
+]]></system-out>
+  <system-err><![CDATA[oct 23, 2021 5:19:31 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 33164
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1635027577.667][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+oct 23, 2021 5:19:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+oct 23, 2021 5:19:53 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 5134
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1635027595.320][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+oct 23, 2021 5:19:55 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+oct 23, 2021 5:20:08 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 6955
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1635027610.382][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+oct 23, 2021 5:20:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+oct 23, 2021 5:20:21 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 45431
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1635027623.456][WARNING]: This version of ChromeDriver has not been tested with Chrome version 95.
+oct 23, 2021 5:20:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
